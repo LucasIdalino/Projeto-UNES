@@ -1,2 +1,4 @@
-# Site-de-Apresentação-para-Modelo
-Práticas com HTML e CSS
+# Site de Apresentação para Modelo
+Exemplo de Site Visual para um modelo
+
+
